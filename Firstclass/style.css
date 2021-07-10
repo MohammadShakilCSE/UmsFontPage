@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*Backround image*/
+.bg-image
+{
+  background-image: url("../Firstclass/image/img-1.jpg");  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;;
+}
+
+/*seu image*/
+.seu-img
+{
+    height: 8rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Footer */
+.footerpart
+{
+  text-decoration:underline ;
+  color: #039be5;;
+}
